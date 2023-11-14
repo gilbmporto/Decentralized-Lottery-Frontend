@@ -1,6 +1,6 @@
 # Decentralized Lottery (Front-end)
 
-Hi there, this is the front-end which is powered by the Ethereum Testnet Goerli. 
+Hi there, this is the front-end of the Decentralized Lottery App which is powered by the Ethereum Testnet Goerli. 
 
 In order to interact with this app, you need to have a metamask account.
 
