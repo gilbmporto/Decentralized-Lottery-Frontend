@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Decentralized Lottery (Front-end)
+
+Hi there, this is the front-end which is powered by the Ethereum Testnet Goerli. 
+
+In order to interact with this app, you need to have a metamask account.
+
+- [Access it here](https://little-block-1508.on.fleek.co/)
 
 ## Getting Started
 
